@@ -83,3 +83,41 @@
 .profile__button-add:hover {
   opacity: 80%;
 }
+
+@media screen and (max-width: 630px) {
+  .profile {
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 0;
+    gap: 12px;
+  }
+  .profile__avatar-image {
+    width: 80px;
+    height: 80px;
+  }
+  .profile__name {
+    font-size: 20px;
+    margin: 0 0 6px;
+    text-align: center;
+  }
+  .profile__about {
+    text-align: center;
+  }
+
+  .profile__details {
+    align-items: center;
+    flex-grow: 1;
+    min-width: calc(100vw-32px);
+  }
+  .profile__container-button {
+    flex-direction: column;
+    gap: 20px;
+    flex-grow: 1;
+    align-items: center;
+  }
+  .profile__button-add {
+    height: 52px;
+    min-width: calc(100vw - 32px);
+    flex-grow: 1;
+  }
+}
