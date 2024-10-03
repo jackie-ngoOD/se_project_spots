@@ -1,21 +1,31 @@
 # Project 3: Spots
 
-### Overview  
+This is a project that is similar to a social media photo sharing platform. There is a user profile with avatar and grid of photographs with a short description.
 
-* Intro  
-* Figma  
-* Images  
-  
-**Intro**
-  
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
-  
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!
+This is a new project for the TripleTen SE Bootcamp in the test phase. Completion of this project was to test the instructions, design and provide feedback.
+
+## Project Features
+
+- Flexbox
+- Grid
+- Hover ELements
+- Responsive Design
+- BEM
+
+## Deployed Github Page
+
+[https://jackie-ngood.github.io/se_project_spots/](https://jackie-ngood.github.io/se_project_spots/)
+
+## Figma
+
+Here is a [link to the project design on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
+
+## Plan on improving the project
+
+- Working buttons
+- Add a User sign in flow
+- ability to add and delete Photos
+
+<div
+ display="flex">
+ <img align="center" height"500px" alt="Screenshot of Spots Project" src="./images/spots-screenshot.png" /></div>
