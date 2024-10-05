@@ -25,3 +25,7 @@ Here is a [link to the project design on Figma](https://www.figma.com/file/BBNm2
 - Working buttons
 - Add a User sign in flow
 - ability to add and delete Photos
+
+## Video
+
+- https://drive.google.com/file/d/1IQooK5Hcgds1V1nCK8xVohMfqGu6FQ4e/view?usp=sharing
