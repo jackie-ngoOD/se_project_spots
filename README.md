@@ -25,7 +25,3 @@ Here is a [link to the project design on Figma](https://www.figma.com/file/BBNm2
 - Working buttons
 - Add a User sign in flow
 - ability to add and delete Photos
-
-<div
- display="flex">
- <img align="center" height"500px" alt="Screenshot of Spots Project" src="./images/spots-screenshot.png" /></div>
