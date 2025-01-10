@@ -161,5 +161,34 @@
       </footer>
     </div>
     <script src="./scripts/index.js" defer></script>
+    <div class="modal modal_hidden">
+      <div class="modal__container">
+        <button
+          class="modal__close-button"
+          aria-label="Close Edit Profile Modal"
+        ></button>
+        <form class="modal__form">
+          <h2 class="modal__title">Edit Profile</h2>
+          <label for="name" class="modal__label">Name</label>
+          <input
+            type="text"
+            id="name"
+            class="modal__input"
+            placeholder="Enter your name"
+            required
+          />
+          <label for="description" class="modal__label">Description</label>
+          <textarea
+            id="description"
+            class="modal__textarea"
+            placeholder="Enter a description"
+            required
+          ></textarea>
+          <button type="submit" class="button modal__submit-button">
+            Save
+          </button>
+        </form>
+      </div>
+    </div>
   </body>
 </html>
